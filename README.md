@@ -34,7 +34,7 @@ If you use the dataset from the link above, the file may not be identical to the
 
 ## Files
 
-- `19_P1.ipynb` — Main notebook containing preprocessing and analysis.
+- `apartment_rent.ipynb` — Main notebook containing preprocessing and analysis.
 - `README.md` — Project description and usage information.
 
 ## Future Work
